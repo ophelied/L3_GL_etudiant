@@ -4,11 +4,12 @@
    - open cv
    - Boost
 ## Compilation
-    mkdir built
+```
+    mkdir build
     cd built
     cmake ..
     make
-
+```
 # Utilisation
 
 [google](http:://www.google.com)
